@@ -1,1 +1,1 @@
-Hi, I’m @tdwsl, and I like programming in C, Pascal and Python, as well as learning new languages. I'm also interested in low-level programming in Assembly for old computers.
+Hi, I’m @tdwsl, and I like programming in C, Pascal, Python, Lua, I386/Z80/6502 assembly, and FORTH. I also like learning new programming languages.
